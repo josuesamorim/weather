@@ -24,14 +24,13 @@ Esse projeto será desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-ATENÇÃO! Projeto ainda em desenvolvimento.
 
 O "Weather" é um aplicativo para verificar as condiçães climáticas nas cidades indicadas pelo usuário através de um campo de busca ou através da localização atual do usuário obtida através do GPS do dispositivo.
 
-Serão implementados:
+Foram implementados:
 
 - Consumo de API para obtenção das informaçōes climáticas.
-- Obtenção de localização do usuário através do GPS do dispositivo.
+- Obtenção de localização do usuário através do GPS do dispositivo (Core Location).
 - Dark-mode.
 - Protocolos e extensões Swift.
 - Swift closures and completion handlers.
